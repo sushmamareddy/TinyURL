@@ -37,8 +37,7 @@ A lightweight URL shortener built with **FastAPI**, **PostgreSQL**, **Redis**, a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tinyurl-fastapi.git
-cd tinyurl-fastapi
+git clone https://github.com/sushmamareddy/TinyURL.git
 ```
 
 ### 2. Create a `.env` File
